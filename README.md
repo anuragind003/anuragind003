@@ -169,8 +169,8 @@ Infra         Docker · uv · Render blueprints · Prometheus-style metrics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anuragind003&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragind003&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="165" alt="Top languages" />
+<img src="https://github-readme-stats.shion.dev/api?username=anuragind003&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;text_color=c9d1d9" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=anuragind003&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;langs_count=8" height="165" alt="Top languages" />
 
 <br/>
 
