@@ -1,20 +1,25 @@
 <!--
   GitHub Profile README — Anurag Kumar (@anuragind003)
-  Specializations inferred from public & recent repositories:
-  agentic AI · multimodal pipelines · real-time avatars · RAG · marketing agents
+  Specializations: agentic AI · multimodal pipelines · real-time avatars · RAG · marketing agents
 -->
 
 <div align="center">
 
 # Anurag Kumar
 
-### Building agentic systems that see, speak, research, and ship
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Building+agentic+systems+that+see%2C+speak%2C+research%2C+and+ship;LangGraph+%C2%B7+RAG+%C2%B7+Realtime+avatars+%C2%B7+Multimodal+AI)](https://github.com/anuragind003)
 
 I design end-to-end AI products — from LangGraph orchestration and RAG systems to real-time talking avatars and multimodal creative pipelines.
 
 [![GitHub](https://img.shields.io/badge/GitHub-anuragind003-181717?style=for-the-badge&logo=github)](https://github.com/anuragind003)
-[![Repos](https://img.shields.io/github/search?q=user%3Aanuragind003&label=Public%20Repos&style=for-the-badge&color=238636)](https://github.com/anuragind003?tab=repositories)
-[![Top Lang](https://img.shields.io/badge/Python%20%7C%20TypeScript-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/anuragind003)
+[![Followers](https://img.shields.io/github/followers/anuragind003?style=for-the-badge&color=238636&label=Followers&logo=github)](https://github.com/anuragind003?tab=followers)
+[![Stars](https://img.shields.io/github/stars/anuragind003?affiliations=OWNER&style=for-the-badge&color=e3b341&logo=github)](https://github.com/anuragind003?tab=repositories&q=&type=&language=&sort=stargazers)
+[![Repos](https://img.shields.io/badge/Public%20Repos-44-238636?style=for-the-badge&logo=github)](https://github.com/anuragind003?tab=repositories)
+[![Views](https://komarev.com/ghpvc/?username=anuragind003&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/anuragind003)
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,fastapi,docker,git&theme=dark" alt="Core stack" />
 
 </div>
 
@@ -153,15 +158,22 @@ LoRA fine-tuning for a visual style + Gemini-guided YouTube thumbnail generation
 
 ## Stack I reach for
 
-```text
-Languages     Python · TypeScript · JavaScript
-Agents        LangGraph · LangChain · Deep Agents · Pipecat
-Models        Gemini · OpenAI · local / edge TTS & vision models
-Realtime      WebRTC · LiveKit · Deepgram · Simli · Cartesia · ElevenLabs
-Data / RAG    Chroma · VideoDB · Tavily · structured memory stores
-Apps          FastAPI · Next.js · React · Streamlit · Vue
-Infra         Docker · uv · Render blueprints · Prometheus-style metrics
-```
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,nodejs,fastapi,vue,docker,postgres,redis,git,github,vscode&theme=dark" alt="Languages and frameworks" />
+
+<br/><br/>
+
+| Layer | Tools |
+| --- | --- |
+| **Agents** | LangGraph · LangChain · Deep Agents · Pipecat |
+| **Models** | Gemini · OpenAI · local / edge TTS & vision |
+| **Realtime** | WebRTC · LiveKit · Deepgram · Simli · Cartesia · ElevenLabs |
+| **Data / RAG** | Chroma · VideoDB · Tavily · structured memory stores |
+| **Apps** | FastAPI · Next.js · React · Streamlit · Vue |
+| **Infra** | Docker · uv · Render · Prometheus-style metrics |
+
+</div>
 
 ---
 
@@ -169,16 +181,24 @@ Infra         Docker · uv · Render blueprints · Prometheus-style metrics
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=anuragind003&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;text_color=c9d1d9" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=anuragind003&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;langs_count=8" height="165" alt="Top languages" />
+<a href="https://github.com/anuragind003">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=anuragind003&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" alt="GitHub stats" />
+</a>
+<a href="https://github.com/anuragind003">
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=anuragind003&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top languages" />
+</a>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragind003&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub streak" />
+<a href="https://github.com/anuragind003">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragind003&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub streak" />
+</a>
 
 <br/>
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=anuragind003&theme=github-compact&hide_border=true&area=true)](https://github.com/anuragind003)
+<a href="https://github.com/anuragind003">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anuragind003&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=c9d1d9" alt="Contribution activity graph" />
+</a>
 
 </div>
 
