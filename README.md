@@ -7,7 +7,7 @@
 
 # Anurag Kumar
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Building+agentic+systems+that+see%2C+speak%2C+research%2C+and+ship;LangGraph+%C2%B7+RAG+%C2%B7+Realtime+avatars+%C2%B7+Multimodal+AI)](https://github.com/anuragind003)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&height=40&lines=Building+agentic+systems+that+see%2C+speak+%26+ship;LangGraph+%C2%B7+RAG+%C2%B7+Realtime+avatars+%C2%B7+Multimodal+AI)](https://github.com/anuragind003)
 
 I design end-to-end AI products — from LangGraph orchestration and RAG systems to real-time talking avatars and multimodal creative pipelines.
 
